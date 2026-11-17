@@ -1,0 +1,11 @@
+productCode,productTitle,productCreator,productFormat,productCategory,productGenre,productRuntime,productStock,productPrice
+P001,Abbey Road,The Beatles,Vinyl,Music,Rock,47,15,29.99
+P002,The Dark Knight,Christopher Nolan,BluRay,Movie,Action,152,20,24.99
+P003,Thriller,Michael Jackson,CD,Music,Pop,42,30,14.99
+P004,Inception,Christopher Nolan,DVD,Movie,Sci-Fi,148,10,9.99
+P005,1989 (Taylor's Version),Taylor Swift,Vinyl,Music,Pop,64,25,34.99
+P006,Interstellar,Christopher Nolan,BluRay,Movie,Sci-Fi,169,12,27.99
+P007,The Matrix,The Wachowskis,DVD,Movie,Sci-Fi,136,18,12.99
+P008,Rumours,Fleetwood Mac,Vinyl,Music,Rock,40,22,28.99
+P009,Spirited Away,Hayao Miyazaki,BluRay,Movie,Animation,125,14,22.99
+P010,Random Access Memories,Daft Punk,CD,Music,Electronic,74,35,16.99
